@@ -1,0 +1,22 @@
+{
+  "name": "@qureshianas/cli-atm-machine",
+  "version": "1.0.0",
+  "description": "This is CLI based ATM Machine by using typescript, NodeJs and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishconfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Anas Qureshi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
